@@ -1,0 +1,7 @@
+       img{
+          cursor: pointer;
+          border: dotted;
+    border-color: #fa0558;
+    border-radius:30px;
+    box-shadow: 5px 10px #DCDCDC;
+}
